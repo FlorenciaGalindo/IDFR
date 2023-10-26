@@ -1,0 +1,13 @@
+h1 {
+    color: lightslategray;
+}
+
+p {
+    color: #d31e1e;
+    font-size: 20px;
+}
+
+a {
+    color: deeppink;
+    text-decoration: none;
+}
